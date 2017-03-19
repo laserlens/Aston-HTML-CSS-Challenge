@@ -1,0 +1,15 @@
+{
+  "name": "Aston-HTML-CSS-Challenge",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "url": "https://github.com/laserlens/Aston-HTML-CSS-Challenge.git",
+    "type": "git"
+  },
+  "author": "laserlens <laserlens@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
